@@ -1,0 +1,30 @@
+*   79d50a9 (HEAD -> main, origin/main) Merge branch 'main' of https://github.com/Deepthichittajallu/git-solved-23A91A0585
+|\  
+| * 8b2d5c7 Rename GIT_JOURNEY to GIT_JOURNEY.md
+| * 1f80ceb Create GIT_JOURNEY
+| | * a0e46a4 (origin/feature/another-feature) feat: Add test feature
+| |/  
+|/|   
+* | 73bdb8c (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README
+|/  
+* cb534b5 feat: Add new feature
+| * 4153145 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   09f26ee merge: Resolve all conflicts between main and dev branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 66ae5be merge: Resolve all conflicts between main and dev branches
+| | * 12ee9b1 (refs/stash) WIP on main: a3d95a7 merge : Resolve all conflicts between main and dev branches
+| |/| 
+|/| | 
+| | * 0c7b7d6 index on main: a3d95a7 merge : Resolve all conflicts between main and dev branches
+| |/  
+|/|   
+* |   a3d95a7 merge : Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
